@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="new">
+    <file>Genç-STEM.ico</file>
+    <file>Genç STEM.jpg</file>
+    <file>arayuz2.png</file>
+    <file>arayuz.png</file>
+    <file>teknofest.png</file>
+  </qresource>
+</RCC>
